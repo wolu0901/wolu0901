@@ -15,7 +15,7 @@
   Hi, I'm Allen Lu, Reporing Analyst | Data Analyst working for 24 Hr Home Care.
   <br>
   <br>
-  <code><img title="UC logo" height="25" src="images/uc.svg"></code> I'm currently studying for a master's degree in Information and Data Science from University of California, Berkeley
+  <code><img title="UC logo" height="25" src="images/uc.jpg"></code> I'm currently studying for a master's degree in Information and Data Science from University of California, Berkeley
   <br>
   🎓 I graduated from Black Sea Technical University Computer Engineering Department
   <br>
