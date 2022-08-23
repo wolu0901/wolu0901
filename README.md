@@ -7,10 +7,9 @@
 </h1>
 
 ### Hi there! I'm Allen Lu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">
-- 🔭 I’m currently working as a reporting analyst
-- 🌱 I’m currently learning data engineering
-- 😄 Pronouns: he/him
 - 💻 I am a Reporing Analyst | Data Analyst working for 24 Hr Home Care.
+- 🌱 I’m learning data engineering
+
 - <img title="UC logo" height="25" src="images/uc.jpg"> I'm currently studying for a master's degree in Information and Data Science from University of California, Berkeley
 - <img title="Pitt logo" height="25" src="images/pitt.jpg"> I graduated from University of Pittsburgh with a MS in Information Systems
 
