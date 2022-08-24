@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wolu0901.wolu0901">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!!😄;This+is+Allen+Lu~;NICE+TO+MEET+YOU!;&center=true&size=25">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=25&duration=2000&pause=300&color=1A63F7&background=45FF1400&center=true&vCenter=true&width=435&lines=This+is+Allen+Lu~;Nice+to+Meet+You!" alt="Typing SVG" /></a>
 </h1>
 
 ### Hi there! I'm Allen Lu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">
