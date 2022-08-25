@@ -8,13 +8,16 @@
 - 💻 I'm a Reporting Analyst working at [24HR Home Care](https://www.24hrcares.com/). I have 5 years' experience in data reporting, analytics, and data integration.
 - <img title="UC logo" height="25" src="images/uc.jpg">I now work on a MS program in  [Information and Data Science from University of California, Berkeley](https://ischoolonline.berkeley.edu/data-science/)
 
-## ⚡️ What else?
+### ⚡️ What else?
 - <img title="Pitt logo" height="25" src="images/pitt.jpg"> I graduated from University of Pittsburgh with a MS in Information Systems in 2018.
 - 🌱 I’m actively learning 
   - Data engineering
   - Machine Learning DevOps
 
-
+### My Skill Set 🔋
+**Programming Languages**
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />|<img alt="R" title="R" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg">
+|--|--|
 
 
 
