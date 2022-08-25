@@ -14,7 +14,7 @@
   - Data engineering
   - Machine Learning DevOps
 
-### My Skill Set   🔋
+### 🔋 My Skill Set~
 **Python**
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />|<img width="40px" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png">
 |--|--|
