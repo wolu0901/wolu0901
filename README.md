@@ -47,7 +47,8 @@
 - Data Science
 - Machine Learning
 - Data Visualization
-
+  - Use Gun Violence Archive dateset tp Explore data available relating to gun violence in America. Use Altair to visulize and Flask + python to deploy on Berkeley Ischool server [gun-violence-viz](https://apps-spring21.ischool.berkeley.edu/gun-violence-viz/)
+ <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=wolu0901.wolu0901">
 
 ### 🧱 Courses I did~
 - [Deep Learning in the Cloud and at the Edge](https://ischoolonline.berkeley.edu/data-science/curriculum/deep-learning-in-the-cloud/): Learned how to transfer learning in Cloud(AWS) and inference on Nvidia Jetson Nano edge device.
