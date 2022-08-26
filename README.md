@@ -22,6 +22,8 @@
 - 🚀 I like SpaceX
 - 📝 Please have a look at my <a href="https://drive.google.com/file/d/180noNdHigGk1-P9iSypXHEal2amZqEHG/view?usp=sharing">Résumé</a> for more about me
 
+
+
 ## 🔋 My Skill Set~
   - Programmning
     - Python | R
@@ -44,7 +46,7 @@
 - Data Science
 - Machine Learning
 
-<img align="right" src="images/data visual.png"  width="400">
+<a href="https://apps-spring21.ischool.berkeley.edu/gun-violence-viz/"><img align="right" src="images/data visual.png"  width="400"></a>
 
 - Data Visualization
   - Use Gun Violence Archive dateset tp Explore data available relating to gun violence in America. Use Altair to visulize and Flask + python to deploy on Berkeley Ischool server at [gun-violence-viz](https://apps-spring21.ischool.berkeley.edu/gun-violence-viz/)
@@ -58,7 +60,7 @@
 - [Data Visualization](https://ischoolonline.berkeley.edu/data-science/curriculum/data-visualization/): Learned to use JS/d3, Tableau, Python/Altair
 
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **wolu0901/wolu0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
