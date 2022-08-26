@@ -16,6 +16,7 @@
 - 📷 I start Vlog this year, here's the [Ytube Channel](https://www.youtube.com/channel/UCH1X_aiihaPJ4i7KudmE3Iw)
 - 🥅 2022 Goals: Graduate from MIDS program
 - 🚀 I like SpaceX
+- 📝 Please have a look at my <a href="https://drive.google.com/file/d/180noNdHigGk1-P9iSypXHEal2amZqEHG/view?usp=sharing">Résumé</a> for more about me
 
 ## 🔋 My Skill Set~
 - **Python+Frameworks**
