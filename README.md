@@ -45,7 +45,9 @@
 
 
 ### 💾 Project & Awards~
-
+- Python
+- Data Science
+- Machine Learning
 
 
 ### 🧱 Courses I did~
