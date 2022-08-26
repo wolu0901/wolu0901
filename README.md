@@ -13,7 +13,7 @@
 - 🌱 I’m actively learning 
   - Data engineering
   - Machine Learning DevOps
-- 📷 I start Vlog this year, here's the [Ytube Channel](https://www.youtube.com/channel/UCH1X_aiihaPJ4i7KudmE3Iw)
+- 📷 I start Vlog this year, Check out my [Ytube Channel](https://www.youtube.com/channel/UCH1X_aiihaPJ4i7KudmE3Iw)
 <img align="center" src="https://img.shields.io/youtube/channel/views/UCH1X_aiihaPJ4i7KudmE3Iw?style=social"><br>
 - 🥅 2022 Goals: Graduate from MIDS program
 - 🚀 I like SpaceX
