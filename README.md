@@ -46,9 +46,9 @@
 
 
 ### 🧱 Courses I did~
-- Deep Learning in the Cloud and at the Edge: Learned how to transfer learning in Cloud(AWS) and inference on Nvidia Jetson Nano edge device.
-- Machine Learning Systems Engineering: Learn the Containers, cloud, and Kubernetes ecosystems, plus CI/CD, the process of deploy a deep learning model and create API endpoints.
-- Data Visualization: Learned to use JS/d3, Tableau, Python/Altair
+- [Deep Learning in the Cloud and at the Edge](https://ischoolonline.berkeley.edu/data-science/curriculum/deep-learning-in-the-cloud/): Learned how to transfer learning in Cloud(AWS) and inference on Nvidia Jetson Nano edge device.
+- [Machine Learning Systems Engineering](https://ischoolonline.berkeley.edu/data-science/curriculum/machine-learning-engineering-systems/): Learn the Containers, cloud, and Kubernetes ecosystems, plus CI/CD, the process of deploy a deep learning model and create API endpoints.
+- [Data Visualization](https://ischoolonline.berkeley.edu/data-science/curriculum/data-visualization/): Learned to use JS/d3, Tableau, Python/Altair
 
 
 
