@@ -33,10 +33,16 @@
 
 
 ## 🔋 My Skill Set~
+
+
+
   - Programmning
     - Python | R
   - Frameworks & Libraries
     - Pandas | Numpy | ggplot2 | Tensorflow | Keras | Sk-learn
+    
+<img align="right" src="images/cat.gif"  width="300">    
+
   - Data Visulizations
     - Tableau | Power Bi | D3 | Plotly | Altair
   - DevOps
