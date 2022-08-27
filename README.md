@@ -52,7 +52,7 @@
   - Use Gun Violence Archive dateset tp Explore data available relating to gun violence in America. Use Altair to visulize and Flask + python to deploy on Berkeley Ischool server at [gun-violence-viz](https://apps-spring21.ischool.berkeley.edu/gun-violence-viz/)
 
 ### 🏆 Awards~
-- AWS Deepracer LeagueJuly Qualifier 2022 10% + Pro
+- AWS Deepracer League [July Qualifier 2022 10%](https://us-east-1.console.aws.amazon.com/deepracer/home?region=us-east-1#league/arn%3Aaws%3Adeepracer%3A%3A%3Aleaderboard%2Fa9bd445e-dca8-4df1-8db1-4a49c2cad008) + Pro
 
 ### 🧱 Courses I did~
 - [Deep Learning in the Cloud and at the Edge](https://ischoolonline.berkeley.edu/data-science/curriculum/deep-learning-in-the-cloud/): Learned how to transfer learning in Cloud(AWS) and inference on Nvidia Jetson Nano edge device.
