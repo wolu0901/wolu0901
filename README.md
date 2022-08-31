@@ -38,10 +38,13 @@
 
   - Programmning
     - Python | R
+    
+ <img align="right" src="images/cat.gif"  width="300">    
+    
   - Frameworks & Libraries
     - Pandas | Numpy | ggplot2 | Tensorflow | Keras | Sk-learn
     
-<img align="right" src="images/cat.gif"  width="300">    
+
 
   - Data Visulizations
     - Tableau | Power Bi | D3 | Plotly | Altair
@@ -57,16 +60,30 @@
 
 ### 💾 Projects~
 - Python
-- Data Science
-- Machine Learning
-
+  - [Convert pdf to docx document based on Google tesseract library](https://github.com/wolu0901/pdf2docx)
+- Data Science + Machine Learning
+  - [Zillow Home Value Predciton in Python use Regression Models including Linear Regression + Regression Trees + Bagging and Random Forest](https://github.com/wolu0901/BMIS2542-datascience-project)
+  - [Predicting Carrying Capacity from Rangeland Photography in Rural Africa use deep learning and inference on Edge Jetson Nano device](https://github.com/kevinlustig/w251-Final-Project) + [Demo](https://drive.google.com/file/d/1-IAa56qbo13TjvX4EtEWJep2q0iyltF7/view?resourcekey) + [Deck](https://docs.google.com/presentation/d/1t7W0DqorbW_hzE7vtjiGAYsmoiR7pyOwNaSZp4vj9qA/edit#slide=id.g105674f3e15_1_0)
+  - [HOUSING PRICES – AMES, IOWA in Python from Data Ingestion to Model Evaluation](https://docs.google.com/presentation/d/1wHbtQH4DnqiwpuiRC2gCtggRTovIEXLRM6Mav24qDDo/edit#slide=id.g123db0d5778_0_0)
+  - [New York's Taxi Cabs Slow Down Amid Covid Pandemic](https://docs.google.com/presentation/d/11UnQiot3doi0THIzaZL2Yx-GRX9btWlYoogu_W7OnPU/edit#slide=id.p)
+- Spark + Hadoop
+  - [Use Pyspark.RamdomForestClassfier to identify pasengers with high upsell possibility](https://github.com/wolu0901/upgrade_passenger_filter_using_spark/blob/master/upgrade_passenger_filter_prototype.ipynb)
+<br><br><br><br>
 <a href="https://apps-spring21.ischool.berkeley.edu/gun-violence-viz/"><img align="right" src="images/data visual.png"  width="400"></a>
 
 - Data Visualization
   - Use Gun Violence Archive dateset tp Explore data available relating to gun violence in America. Use Altair to visulize and Flask + python to deploy on Berkeley Ischool server at [gun-violence-viz](https://apps-spring21.ischool.berkeley.edu/gun-violence-viz/)
 
-### 🏆 Awards~
+<br><br><br><br>
+### 🏆 Awards + Certs~
 - AWS Deepracer League [July Qualifier 2022 10%](https://us-east-1.console.aws.amazon.com/deepracer/home?region=us-east-1#league/arn%3Aaws%3Adeepracer%3A%3A%3Aleaderboard%2Fa9bd445e-dca8-4df1-8db1-4a49c2cad008) + Pro
+- [Tableau Desktop Certified Associate, 2019](https://www.credly.com/badges/2ea60d72-6d52-41a0-bb7f-95ad7649da93/linked_in_profile)
+- [Academy Accreditation - Databricks Lakehouse Fundamentals, 2022](https://credentials.databricks.com/eba9766a-dc2f-4079-81de-1fc93679dbe1)
+- [IBM AI Engineering Professional Certificate, 2020](https://www.credly.com/badges/00f4a51e-c2cc-4af8-9103-d8bdea9ccf6e/linked_i)
+- [Certified Associate in Project Management, 2018](https://www.credly.com/badges/2f43d77e-8a58-4f1d-8858-15d9d3b389fe/linked_in_profile)
+- [Google IT Support Pro Certificate, 2019](https://www.coursera.org/account/accomplishments/specialization/GSZBSDB66VHH)
+- UCLA Certificate in Cybersecurity, 2019
+
 
 ### 🧱 Courses I did~
 - [Deep Learning in the Cloud and at the Edge](https://ischoolonline.berkeley.edu/data-science/curriculum/deep-learning-in-the-cloud/): Learned how to transfer learning in Cloud(AWS) and inference on Nvidia Jetson Nano edge device.
