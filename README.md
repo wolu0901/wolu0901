@@ -59,8 +59,6 @@
 
 
 ### 💾 Projects~
-- Python
-  - [Convert pdf to docx document based on Google tesseract library](https://github.com/wolu0901/pdf2docx)
 - Data Science + Machine Learning
   - [Zillow Home Value Predciton in Python use Regression Models including Linear Regression + Regression Trees + Bagging and Random Forest](https://github.com/wolu0901/BMIS2542-datascience-project)
   - [Predicting Carrying Capacity from Rangeland Photography in Rural Africa use deep learning and inference on Edge Jetson Nano device](https://github.com/kevinlustig/w251-Final-Project) + [Demo](https://drive.google.com/file/d/1-IAa56qbo13TjvX4EtEWJep2q0iyltF7/view?resourcekey) + [Deck](https://docs.google.com/presentation/d/1t7W0DqorbW_hzE7vtjiGAYsmoiR7pyOwNaSZp4vj9qA/edit#slide=id.g105674f3e15_1_0)
