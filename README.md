@@ -60,17 +60,19 @@
 
 ### 💾 Projects~
 - Data Science + Machine Learning
-  - [Zillow Home Value Predciton in Python use Regression Models including Linear Regression + Regression Trees + Bagging and Random Forest](https://github.com/wolu0901/BMIS2542-datascience-project)
-  - [Predicting Carrying Capacity from Rangeland Photography in Rural Africa use deep learning and inference on Edge Jetson Nano device](https://github.com/kevinlustig/w251-Final-Project) + [Demo](https://drive.google.com/file/d/1-IAa56qbo13TjvX4EtEWJep2q0iyltF7/view?resourcekey) + [Deck](https://docs.google.com/presentation/d/1t7W0DqorbW_hzE7vtjiGAYsmoiR7pyOwNaSZp4vj9qA/edit#slide=id.g105674f3e15_1_0)
+  - [Predicting Carrying Capacity from Rangeland Photography in Rural Africa use deep learning and inference on Edge Jetson Nano device](https://github.com/kevinlustig/w251-Final-Project) + [Demo](https://drive.google.com/file/d/1-IAa56qbo13TjvX4EtEWJep2q0iyltF7/view?resourcekey) + [Deck](https://docs.google.com/presentation/d/1t7W0DqorbW_hzE7vtjiGAYsmoiR7pyOwNaSZp4vj9qA/edit#slide=id.g105674f3e15_1_0)-  
   - [HOUSING PRICES – AMES, IOWA in Python from Data Ingestion to Model Evaluation](https://docs.google.com/presentation/d/1wHbtQH4DnqiwpuiRC2gCtggRTovIEXLRM6Mav24qDDo/edit#slide=id.g123db0d5778_0_0)
   - [New York's Taxi Cabs Slow Down Amid Covid Pandemic](https://docs.google.com/presentation/d/11UnQiot3doi0THIzaZL2Yx-GRX9btWlYoogu_W7OnPU/edit#slide=id.p)
+  - [Zillow Home Value Predciton in Python use Regression Models including Linear Regression + Regression Trees + Bagging and Random Forest](https://github.com/wolu0901/BMIS2542-datascience-project)
+
+  
 - Spark + Hadoop
   - [Use Pyspark.RamdomForestClassfier to identify pasengers with high upsell possibility](https://github.com/wolu0901/upgrade_passenger_filter_using_spark/blob/master/upgrade_passenger_filter_prototype.ipynb)
 <br><br><br><br>
 <a href="https://apps-spring21.ischool.berkeley.edu/gun-violence-viz/"><img align="right" src="images/data visual.png"  width="400"></a>
 
 - Data Visualization
-  - Use Gun Violence Archive dateset tp Explore data available relating to gun violence in America. Use Altair to visulize and Flask + python to deploy on Berkeley Ischool server at [gun-violence-viz](https://apps-spring21.ischool.berkeley.edu/gun-violence-viz/)
+  - Use Gun Violence Archive dateset tp Explore data available relating to gun violence in America. Use Altair to visulize and Flask + python to deploy on Berkeley Ischool server.
 
 <br><br><br><br>
 ### 🏆 Awards + Certs~
